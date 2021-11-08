@@ -29,8 +29,8 @@
    N/A
 
   ## Preview of app final product
-  ![Note-Taker-Frontpage](./public/images/note-taker-frontpage.png)
-  ![Note-Taker-Inaction](./public/images/note-taker-inaction.png)
+  ![Note-Taker-Frontpage](./public/assets/images/note-taker-frontpage.png)
+  ![Note-Taker-Inaction](./public/assets/images/note-taker-inaction.png)
 
   ### GitHub Profile
   [GitHub Profile](http://github.com/benyvue)
